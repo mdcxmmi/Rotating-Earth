@@ -5,10 +5,14 @@
 [![IDE](https://img.shields.io/badge/IDE-MS_Visual_Studio_22-green.svg)](https://visualstudio.microsoft.com/ru/)
 [![Language](https://img.shields.io/badge/C++-blue.svg)](https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170)
 
-#Лабораторная работа по дисциплине "Компьютерная графика" №5.
 
-#Описание задачи
+# Лабораторная работа по дисциплине "Компьютерная графика" №5.
+
+
+# Описание задачи
+
 Вариант 25.	Напишите программу, изображающую вращающуюся планету Земля.
+
 ## Иллюстрация работы приложения
 ![](https://github.com/mdcxmmi/RotatingEarth/blob/master/images/demo.gif)
 
