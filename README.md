@@ -1,9 +1,12 @@
 # Rotating-Earth
 Программа, изображающая вращающуюся планету Земля.
 # Вращающаяся планета Земля
-![IDE](https://img.shields.io/badge/IDE-MS_Visual_Studio_19-green.svg)
-![Language](https://img.shields.io/badge/C++-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![IDE](https://img.shields.io/badge/IDE-MS_Visual_Studio_22-green.svg)](https://visualstudio.microsoft.com/ru/)
+[![Language](https://img.shields.io/badge/C++-blue.svg)](https://learn.microsoft.com/ru-ru/cpp/cpp/?view=msvc-170)
+
 #Лабораторная работа по дисциплине "Компьютерная графика" №5.
+
 #Описание задачи
 Вариант 25.	Напишите программу, изображающую вращающуюся планету Земля.
 ## Иллюстрация работы приложения
@@ -35,6 +38,10 @@
 - Нанесение на неё текстуры
 - Вращение вокруг заданной точки;
 - Возможность выхода из приложения при промощи нажатия на клавишу "Esc".
+
+## Лицензия
+
+Проект распостраняется по лицензии MIT.
 
 ## Автор
 
