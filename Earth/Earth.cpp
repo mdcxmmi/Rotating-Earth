@@ -141,8 +141,8 @@ GLuint LoadTextureRAW(const char* filename) {
     fopen_s(&file, filename, "rb");
     if (file == NULL) return 0;
 
-    width = 1024;
-    height = 512;
+    width = 2048;
+    height = 1024;
     data = (unsigned char*)malloc(width * height * 3);
 
     fread(data, width * height * 3, 1, file);
