@@ -1,6 +1,6 @@
 #include "pch.h"
 #include "CppUnitTest.h"
-#include "../RotatingEarth/RotatingEarth.cpp"
+#include "../Earth/Earth.cpp"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
